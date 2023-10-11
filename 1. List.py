@@ -16,7 +16,7 @@ print(item2)
 # printing length of the list
 print(len(myList))
 
-# append() method for inserting item at back of the list
+# append() method for appending item at back of the list
 myList.append(2786)
 print(myList)
 
@@ -49,7 +49,7 @@ print(list3)
 # [<starting_index>:<ending_index(not included)>:<steps>]
 
 print(list3[1:4])
-print(list3[::2]) #prints elements with steps 2
+print(list3[::2]) # prints elements with steps 2
 print(list3[::-1]) # a way to reverse list
 
 # demonstrating deep copy in list
