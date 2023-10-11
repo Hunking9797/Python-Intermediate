@@ -10,7 +10,7 @@ evens = {2,4,6,8,10}
 primes = {2,3,5,7,11}
 
 print(odds.intersection(primes)) #this give new_set with intersection
-# if intersection_update is used it will do it inplace
+# if intersection_update is used it will do it inplace and odd set will be edited
 
 # gives elements which are not present in both
 print(sorted(evens.difference(primes)))
