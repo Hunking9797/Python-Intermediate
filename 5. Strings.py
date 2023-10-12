@@ -38,4 +38,4 @@ print(new_str)
 
 # f strings
 var = 3.1425665
-print(f'the value of variable is {0:var:.2f}')
+print(f'the value of variable is {var:.2f}')

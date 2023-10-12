@@ -7,7 +7,7 @@ Sets
 Strings
 Collections
 Itertools
-Lambda Functions
+Lambda Functions (learn map,filter,reduce)
 Exceptions and Errors
 Logging 
 JSON
